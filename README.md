@@ -38,9 +38,9 @@
 
 
 
-### 5. Summary
+### 4. Summary
  The basic task is to use the data to identify which groups of people are most responsive to each type of offer, and how best to present each type of offer.
 
-### 6. Licensing, Authors, Acknowledgements
+### 5. Licensing, Authors, Acknowledgements
 
  Must give credit to Starbuck for the data. Feel free to use the code here as you would like!
